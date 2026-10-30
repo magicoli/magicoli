@@ -1,3 +1,4 @@
-- github: https://github.com/magicoli
-- project: https://magiiic.org
+- github site: https://magicoli.github.io/
+- github profile: https://github.com/magicoli
+- projects: https://magiiic.org
 - website: https://magiiic.com
