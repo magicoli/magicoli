@@ -1,3 +1,1 @@
-# Magic Oli
-
-I didn't choose this nickname: it was given to me, and I kept it.
+I didn't choose MagicOli nickname: it was given to me, and I kept it.
