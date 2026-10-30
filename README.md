@@ -1,1 +1,3 @@
-I didn't choose MagicOli nickname: it was given to me, and I kept it.
+- github: https://github.com/magicoli
+- project: https://magiiic.org
+- website: https://magiiic.com
